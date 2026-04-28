@@ -12,7 +12,7 @@ Ce projet est le site web de d'une entreprise fictive Fresh Coffee, ce site perm
 - Tailwind CSS
 
 ### Back-end
-Le back end de ce projet est sur cet autre repo : 
+Le back end de ce projet est sur cet autre repo : https://github.com/TOokaap/Dashboard-Restau
 
 
 
