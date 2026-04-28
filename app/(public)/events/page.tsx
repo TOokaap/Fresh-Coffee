@@ -117,7 +117,6 @@ export default async function EventPage({
                     </div>
                 ) : (
                     <div className="flex flex-col items-center justify-center py-16 gap-4 text-center">
-                        <span className="text-5xl">☕</span>
                         <h4 className="text-xl font-title">
                             Rien de prévu pour le moment
                         </h4>
